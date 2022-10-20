@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bradsmart1998
 - 👀 I’m interested in football and travelling
-- 🌱 I’m currently learningn data analytics
+- 🌱 I’m currently learning data analytics
 - 💞️ I’m looking to collaborate on my projects
 - 📫 reach me on my email bradsmart@live.com
 
